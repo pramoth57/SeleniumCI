@@ -6,6 +6,6 @@ public class NewTest {
   @Test
   public void f() {
 	  
-	  System.out.println("******++++++//////-------!!!!@@@@@@#######$$$$$$%%%%%%%^^^^^");
+	  System.out.println("pramoth");
   }
 }
